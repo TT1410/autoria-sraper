@@ -8,4 +8,4 @@ fi
 
 cd "$APP_HOME"
 
-/usr/local/bin/python3 /usr/local/bin/scrapy crawl autoria
+/usr/local/bin/scrapy crawl autoria
